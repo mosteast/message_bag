@@ -1,1 +1,1 @@
-export { Bag } from './src/bag'
+export { Bag, Bag_reply } from './src/bag'

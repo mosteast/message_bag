@@ -124,8 +124,6 @@ export class Bag {
   }
 }
 
-export class Bag_ask extends Bag {}
-
 export class Bag_reply extends Bag {
   reply = true
 
