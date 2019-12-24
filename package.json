@@ -14,7 +14,7 @@
     "test": "npx jest --coverage",
     "build": "npx ts-node build.cli.ts",
     "release": "npm version patch && npm publish --access public",
-    "build_and_release": "npm run build && npm run release"
+    "build_and_release": "npm run build && cd build && npm run release"
   },
   "author": "Mosteast team",
   "license": "ISC",
