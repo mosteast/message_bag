@@ -1,1 +1,1 @@
-export * from './src'
+export { Bag } from './src/bag'

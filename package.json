@@ -18,7 +18,9 @@
   },
   "author": "Mosteast team",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "@mosteast/base-error": "^0.1.6"
+  },
   "devDependencies": {
     "@types/jest": "^24.0.23",
     "@types/node": "^11.15.3",
